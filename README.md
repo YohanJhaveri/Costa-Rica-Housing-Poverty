@@ -1,6 +1,5 @@
-# Costa-Rica-Housing-Poverty
+# CS334: Machine Learning
 
-## CS334: Machine Learning -- Final Project
-Classifying Costa Rican households into 4 classes of poverty level. The problem is a Supervised Multiclass Classification Problem.
-[Kaggle Competition](kaggle.com/c/costa-rican-household-poverty-prediction)
+### Costa Rican Housing Poverty
+The problem at hand is a supervised multi-class classification problem from [this kaggle competition](https://kaggle.com/c/costa-rican-household-poverty-prediction) which deals with classifying Costa Rican households into four mutually exclusive classes of poverty levels.
 
